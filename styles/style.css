@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    height: 100%;
+}
+
+.top-nav {
+    font-size: 13px;
+    padding: 30px 30px;
+    position: relative;
+    text-align: right;
+    color: #404040;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main p {
+    font-size: 10pt;
+}
+
+footer {
+    position: absolute;
+    font-size: 10pt;
+    border-top: 2px solid #eaeaea;
+    background-color: #f2f2f2;
+    width: 100%;
+    bottom: 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    position: relative;
+    text-align: center;
+}
+
+.bottom-nav {
+    border-top: 2px solid #eaeaea;
+    margin-bottom: 3px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.bottom-nav-right {
+    float: right;
+    position: relative;
+    text-align: center;
+    margin-right: 30px;
+}
+
+#google-logo {
+    height: 92px;
+    width: 272px;
+    padding-top: 10px;
+    margin-top: 80px;
+}
+
+#gmail {
+    margin: 10px;
+    font-size: 13px;
+}
+
+#images {
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#buttons {
+    margin-right: 10px;
+    display: inline-block;
+    width: 20px;
+    position: relative;
+    opacity: 6px;
+}
+
+#gbuttons {
+    height: 15px;
+    width: 15px;
+    opacity: 6px;
+}
+
+#search-form {
+    margin: 20px auto;
+    border: none;
+    border:2px solid #eaeaea;
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#list2 {
+    text-align: right;
+}
+
+.google-search {
+    border: 1px solid #f2f2f2;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    height: 30px;
+    width: 130px;
+    cursor: pointer;
+    margin: 10px 5px;
+}
+
+.login-button {
+    height: 30px;
+    font-weight: bold;
+    font-size: 10pt;
+    border-radius: 2px;
+    color: white;
+    background-color: rgb(72, 133, 237);
+    border: 0;
+    cursor: pointer;
+    padding-right: 15px;
+    padding-left: 15px;
+}
